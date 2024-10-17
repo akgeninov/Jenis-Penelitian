@@ -1,6 +1,6 @@
 # Berikut contoh jurnal yang termasuk penelitian terapan:
 
-- [Implementasi Data Mining sebagai Pengolahan Data](https://github.com/akgeninov/Jenis-Penelitian/blob/main/Penelitian%20Dasar/Implementasi%20Data%20Mining%20sebagai%20Pengolahan%20Data.pdf)
-<br />Sumber : http://portaldata.org/index.php/portaldata/article/view/107
-- [Data Mining Concepts and Techniques](https://github.com/akgeninov/Jenis-Penelitian/blob/478352fdd17bcfbb7149927de00277202c5fc011/Penelitian%20Dasar/Penerapan%20Data%20Mining%20Algoritma%20Decision%20Tree%20Berbasis%20PSO.pdf)
-<br />Sumber : https://www.researchgate.net/publication/322365853_Data_Mining_Concepts_and_Techniques?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoic2VhcmNoIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19
+- [Implementasi Data Mining sebagai Pengolahan Data](https://github.com/akgeninov/Jenis-Penelitian/blob/main/Penelitian%20Terapan/Implementasi%20Data%20Mining%20Pada%20Penjualan%20Kacamata%20Menggunakan%20Algoritma%20Apriori.pdf)
+<br />Sumber : https://ejournal.bsi.ac.id/ejurnal/index.php/ijcit/article/view/2776
+- [Data Mining Concepts and Techniques](https://github.com/akgeninov/Jenis-Penelitian/blob/main/Penelitian%20Terapan/PENERAPAN%20ALGORITMA%20APRIORI%20UNTUK%20PENENTUAN%20TINGKAT%20PESANAN.pdf)
+<br />Sumber : http://download.garuda.kemdikbud.go.id/article.php?article=746704&val=11774&title=Penerapan%20Algoritma%20Apriori%20Untuk%20Penentuan%20Tingkat%20Pesanan
